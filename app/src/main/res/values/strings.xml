@@ -1,5 +1,6 @@
 <resources>
-    <string name="app_name">Sber UPOS Example</string>
+    <string name="app_name">INPAS UPOS Example</string>
+    <string name="driver_not_found">Драйвер не найден</string>
     <string name="error_connecting_upos">Ошибка при работе с пин-падом</string>
-    <string name="intent_value">Intent(\'ru.sberbank.uposnative.UposClientAidlInterface\')\nintent.component = ComponentName(\n pkg = \'ru.sberbank.upos_driver_test\',\n cls = \'ru.sberbank.uposnative.aidl.UposNativeClientAidlService\'\n )</string>
+    <string name="intent_value">Intent(\'ru.inpas.connectorevotor.PaySystemUPOS\')\nintent.component = ComponentName(\n pkg = \'ru.inpas.posdriver.pax\',\n cls = \'ru.inpas.connectorevotor.POSService\'\n )</string>
 </resources>

@@ -35,5 +35,5 @@
         android:id="@+id/lunchUpos"
         android:layout_width="match_parent"
         android:layout_height="52dp"
-        android:text="Внешний UPOS пин-пад" />
+        android:text="Запустить внешний пин-пад" />
 </LinearLayout>
