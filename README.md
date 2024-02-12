@@ -1,3 +1,4 @@
+### Пин-пад - S300. На операцию пин-пад никак не среагировал
 ### Драйвер падает с ошибкой
 ```
 Attempt to invoke virtual method 'int java.lang.String.hashCode()' on a null object reference
